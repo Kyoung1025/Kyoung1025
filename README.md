@@ -3,9 +3,6 @@
 
 
 
-
-
-
 ### 📬 Contact & Socials
 
 <p>
@@ -42,37 +39,6 @@
 
 
 
-
-<div align="center">
-
-  <!-- 상단 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Cloud%20&%20Infrastructure%20Engineer&fontSize=42" width="100%"/>
-
-  <br/>
-
-  <!-- 확실한 포지션 및 방향성 명시 -->
-  <h3>☁️ Cloud Infrastructure & DevOps Engineer</h3>
-  <p>백엔드 개발 경험을 바탕으로 확장 가능하고 안정적인 클라우드 인프라를 설계·운영합니다.</p>
-
-  <br/>
-
-  <!-- 연락처 및 소셜 뱃지 -->
-  <p>
-    <a href="mailto:your_email@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://YOUR_NOTION_URL" target="_blank">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-    </a>
-    <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-    </a>
-    <a href="https://instagram.com/YOUR_INSTAGRAM_ID" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
-  </p>
-
-  <br/>
 
   <!-- 깃허브 통계 카드 -->
   <p>
