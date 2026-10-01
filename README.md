@@ -1,32 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Kyoung1025/Kyoung1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
-
-  <!-- 상단 커스텀 헤더 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45" width="100%"/>
-
-  <br/>
-
-  <!-- 메인 포지션 명시 -->
-  <h3>☁️ Cloud-Native & Full-Stack Developer</h3>
-  <p>Building scalable web applications and containerized cloud infrastructure.</p>
-
-  <br/>
 
   <!-- 깃허브 통계 카드 -->
   <p>
