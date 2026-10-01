@@ -38,20 +38,6 @@
 </p>
 
 
-
-
-  <!-- 깃허브 통계 카드 -->
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150"/>
-    </a>
-  </p>
-
-</div>
-
 ---
 
 ### 🛠 Tech Stack
