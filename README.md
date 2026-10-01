@@ -26,15 +26,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
-  <!-- LinkedIn (필요 시 활용) -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <!-- Blog / Velog / Tistory -->
-  <a href="https://YOUR_BLOG_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=rss&logoColor=white"/>
-  </a>
 </p>
 
 
