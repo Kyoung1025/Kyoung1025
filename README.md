@@ -69,19 +69,3 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
----
-
-### 🚀 Key Focus & Interests
-
-* **Infrastructure Architecture**: AWS 인프라 설계 및 Kubernetes 기반 컨테이너 오케스트레이션
-* **CI/CD & Automation**: Docker 가상화 및 배포 파이프라인 자동화
-* **Backend to Infrastructure**: 백엔드 시스템에 대한 이해를 기반으로 한 고가용성 인프라 구축
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/YOUR_GITHUB_ID" alt="GitHub Contributions Chart" width="100%"/>
-</p>
