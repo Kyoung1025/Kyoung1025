@@ -18,9 +18,59 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyoung1025&show_icons=true&theme=radical)
 
+<div align="center">
+
+  <!-- 상단 커스텀 헤더 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45" width="100%"/>
+
+  <br/>
+
+  <!-- 메인 포지션 명시 -->
+  <h3>☁️ Cloud-Native & Full-Stack Developer</h3>
+  <p>Building scalable web applications and containerized cloud infrastructure.</p>
+
+  <br/>
+
+  <!-- 깃허브 통계 카드 -->
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" height="150"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150"/>
+    </a>
+  </p>
+
+</div>
+
+---
+
 ### 🛠 Tech Stack
+
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+#### ⚙️ Backend & Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+#### ☁️ Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/YOUR_GITHUB_ID" alt="GitHub Contributions Chart" width="100%"/>
 </p>
